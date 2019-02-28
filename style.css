@@ -1,0 +1,71 @@
+.container{
+	width: 980px;
+	margin: 0 auto 0 auto;
+}
+
+body{
+	margin: 60px 40px 40px 40px;
+	background-color: #f4f4f4;	
+}
+
+.header{
+	background-color: #e5e7e9;
+}
+
+.name h1{
+	font-size: 40px;
+}
+.name{
+	height: 50px;
+	text-align: center;
+	margin: 30px;
+	padding: 30px;
+}
+
+.cources{
+	margin-top: 15px;
+	background-color: #e5e7e9;
+	text-align: center;
+}
+.cources ul{
+	display: inline-block;
+    size: 16px;	
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.favourites{
+	text-align: center;
+	margin-top: 15px;
+	background-color: #e5e7e9;
+	list-style-type: none;
+}
+.cources ul li{
+	font-size: 20px;
+}
+
+.favourites ul{
+	font-size: 20px;
+	list-style-type: none;
+}
+.movie {
+	overflow: inherit;
+}
+
+.photos{
+	background-color: #e5e7e9;
+}
+.happy{
+	margin-left: 20px;
+}
+.unhappy{
+	margin-left: 150px;
+}
+.footer p{
+	text-align: center;
+	margin: 20px 0 10px 0;
+}
+.neigbour{
+	text-align: center;
+	background-color: #e5e7e9;
+}
